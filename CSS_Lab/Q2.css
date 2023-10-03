@@ -1,0 +1,29 @@
+
+        #container{
+            width: 660px;
+            height: 250px;
+            background-color: #fdfdff;
+            margin: auto;
+            border-radius: 8px;
+            margin-top: 80px;
+        }
+        body{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f2;
+        }
+        h1{
+            display: block;
+            font-weight: bold;
+            font-size: 32px;
+            margin-top: 20px;
+            margin-left:30px ;
+            padding-top: 55px;
+        }
+        .left{
+            margin-left:30px ;
+        }
+        a:link , a:visited{
+            color: #38488f;
+            text-decoration: none;
+            
+        }
